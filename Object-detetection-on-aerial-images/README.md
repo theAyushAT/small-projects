@@ -10,3 +10,7 @@ https://www.kaggle.com/kbhartiya83/swimming-pool-and-car-detection
 
 <img src="https://github.com/theAyushAT/small-projects/blob/main/Object-detetection-on-aerial-images/Result_images/aerial_image1.jpeg">
 
+<img src="https://github.com/theAyushAT/small-projects/blob/main/Object-detetection-on-aerial-images/Result_images/aerial_image2.jpeg">
+
+<img src="https://github.com/theAyushAT/small-projects/blob/main/Object-detetection-on-aerial-images/Result_images/aerial_image_3.jpeg">
+
